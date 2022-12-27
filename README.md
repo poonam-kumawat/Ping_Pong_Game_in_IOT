@@ -1,6 +1,6 @@
-# Ping_Pong_Game_in_IOT
+## Ping_Pong_Game_in_IOT
 
-#OUTPUT 
+## OUTPUT 
 ![image](https://user-images.githubusercontent.com/103033530/175785443-01a5959a-9103-4cbd-ad38-9f0594aa20e0.png)
 
 ![image](https://user-images.githubusercontent.com/103033530/175785452-fd75b727-e7f9-47cd-9e9d-1533fb24d23b.png)
